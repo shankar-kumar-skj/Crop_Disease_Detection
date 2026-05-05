@@ -104,3 +104,5 @@ crop_disease_detection/
 |--------|-------------|
 | `week1_eda_preprocessing.py` | Exploratory data analysis, image augmentation, stratified train/val/test splits |
 | `week2_cnn_baseline.py` | Trains a custom CNN from scratch as a performance baseline |
+| `week3_transfer_learning.py` | Fine-tunes ResNet50 and MobileNetV2 pretrained on ImageNet |
+| `week4_evaluation_inference.py` | Generates confusion matrices, classification reports, and runs single-image inference |
