@@ -1,9 +1,3 @@
-"""
-Week 2: Custom CNN Architecture and Baseline Training
-Builds a from-scratch CNN with Dropout + Early Stopping to establish baseline accuracy.
-Run after week1_eda_preprocessing.py
-"""
-
 import json
 import numpy as np
 import matplotlib.pyplot as plt
